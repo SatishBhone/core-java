@@ -27,12 +27,6 @@ public class SBI_ImplementationClass  implements  RBIInterface {
 		
 	}
 
-
-	
-
-	
-	
-
 // This is implementations Class where all un_implemented methods get complied.
 	// it is achieve 100%  implementation 
 	
