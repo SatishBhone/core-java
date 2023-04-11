@@ -7,10 +7,6 @@ public class Inheritance {
 	// 3) Multiple Inheritance 
 	// 4) Hierarchical inheritance
 	String a = "Satihs Bhone";
-	public static void main(String[] args) 
 	
-	{
-		
-	}
 
 }
